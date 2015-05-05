@@ -5,8 +5,8 @@ require "active_admin/wysihtml5/version"
 Gem::Specification.new do |s|
   s.name        = "activeadmin-wysihtml5"
   s.version     = ActiveAdmin::Wysihtml5::VERSION
-  s.authors     = ["Eric Holmes", "Stefano Verna"]
-  s.email       = ["eric@ejholmes.net", "s.verna@cantierecreativo.net"]
+  s.authors     = ["Asif Meer", "Stefano Verna"]
+  s.email       = ["asif_meer_2k6@yahoo.com"]
   s.homepage    = "https://github.com/cantierecreativo/activeadmin-wysihtml5"
   s.summary     = "Rich text editor for Active Admin using wysihtml5."
   s.description = s.summary
